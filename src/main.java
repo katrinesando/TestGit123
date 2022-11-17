@@ -8,4 +8,10 @@ public class main {
         }
         return 0;
     }
+    public int cal1 (int num){
+        if(num%2==0){
+            return 1;
+        }
+        return 0;
+    }
 }
